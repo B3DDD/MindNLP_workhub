@@ -26,3 +26,15 @@ https://blog.csdn.net/a1966565/article/details/144751602?sharetype=blog&shareId=
 -adapter_config.json和adapter_model.ckpt是该代码运行后保存的模型参数，可以通过代码重新加载使用。
 
 3rd
+《数据并行（标注版）》
+
+原课件知识的基础上，利用大模型AI助手逐一对专业名词进行释义，并且利用大模型理解图示内容进行批注。
+
+代码
+
+https://github.com/mindspore-lab/mindnlp/tree/master/examples/parallel/bert_imdb_finetune
+
+训练过程及产生的诸多信息和文件，专门写了一篇博文来解释：
+
+《昇思打卡营第五期(MindNLP特辑）第三课--基于MindNLP的数据并行训练-上：课程示例代码详解》
+https://blog.csdn.net/a1966565/article/details/144991037?spm=1001.2014.3001.5501
