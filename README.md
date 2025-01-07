@@ -38,3 +38,8 @@ https://github.com/mindspore-lab/mindnlp/tree/master/examples/parallel/bert_imdb
 
 《昇思打卡营第五期(MindNLP特辑）第三课--基于MindNLP的数据并行训练-上：课程示例代码详解》
 https://blog.csdn.net/a1966565/article/details/144991037?spm=1001.2014.3001.5501
+
+上传文件说明：
+![image](https://github.com/user-attachments/assets/8fa1582b-c545-460f-ab7e-de324e7e0bba)
+完整文件如图。
+由于optimizer.ckpt和model .safetensors文件太大而无法上传。
