@@ -111,9 +111,34 @@ https://blog.csdn.net/a1966565/article/details/145119113?fromshare=blogdetail&sh
 -------------------------------------------------------------------------------------------------------------------------------------
 # 5th
 
-## 
+## 《基于MindNLP的LLM应用开发实战(标注版）》
+
+原课件基础上，利用AI助手对于专业名词、图表和公式进行注释。方便需要更详细解释的同学们想学习。
+
+## 代码仓库
+
+https://github.com/ResDream/MindTinyRAG
+
+## MindTinyRAG文件夹
+
+从华为Modelarts实例中跑完的代码，保存了checkpoint，在notebook里面可以看到返回值用于学习从零构建的代码的处理方式。（自己花钱跑的T_T)
+
+python app.py 可以构建gradio对话端口，跟这个知识库助手对话。不过要打开app.py完成一下准备工作，把反向代理文件放进系统文件夹里。
+
+## PAI-DSW环境文件夹
+
+从阿里云PAI-DSW实例中跑完的代码，两者除了速度不同其实无甚差异，都挺好用的。这个实例我领了免费试用计算时，所以挺爽的。
+
+写了两篇输出来分析代码：
+
+## 《昇思打卡营第五期(MindNLP特辑）课程五：基于MindNLP的LLM应用开发实战：从零开始的RAG应用开发 上：实例代码上MindTinyRAG.ipynb和返回值解析》
+
+https://blog.csdn.net/a1966565/article/details/145163448?fromshare=blogdetail&sharetype=blogdetail&sharerId=145163448&sharerefer=PC&sharesource=a1966565&sharefrom=from_link
 
 
+## 《昇思打卡营第五期(MindNLP特辑）课程五：基于MindNLP的LLM应用开发实战：从零开始的RAG应用开发 中：Gradio脚本、测试脚本和返回值解析》
+
+(https://blog.csdn.net/a1966565/article/details/145179121?fromshare=blogdetail&sharetype=blogdetail&sharerId=145179121&sharerefer=PC&sharesource=a1966565&sharefrom=from_link)
 
 
 
